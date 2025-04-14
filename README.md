@@ -63,18 +63,17 @@ This project builds a complete data pipeline that fetches **Test cricket batsmen
 
 ---
 
-## 🚀 How to Run
+## 📊 Live Dashboard
 
-### ✅ Prerequisites
-- Google Cloud project with billing enabled
-- `gcloud` CLI configured
-- BigQuery dataset created (e.g., `cricket_data`)
-- GCS bucket created (e.g., `buck-ranking-data`)
-- Enable Cloud Functions, Storage, and BigQuery APIs
+View the live interactive dashboard hosted on Looker Studio:
 
-### 🛠 Steps
+👉 [Click here to view the dashboard](https://lookerstudio.google.com/s/hWvMLS9PH2w)
 
-1. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
+## ✅ Conclusion
+
+This project demonstrates the power of integrating real-time sports data with modern cloud technologies. From fetching live cricket rankings using the Cricbuzz API to automating data uploads to Google Cloud Storage and BigQuery, every component plays a role in building a seamless, scalable pipeline. With the final output visualized in Looker Studio, the project highlights how raw data can be transformed into actionable insights with minimal manual effort.
+
+Whether you're a cricket enthusiast, a data engineering learner, or someone exploring cloud-based data pipelines, this project offers a practical example of turning data into decisions. 🏏☁️📊
+
+
 
