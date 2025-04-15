@@ -63,12 +63,6 @@ This project builds a complete data pipeline that fetches **Test cricket batsmen
 
 ---
 
-## 📊 Live Dashboard
-
-View the live interactive dashboard hosted on Looker Studio:
-
-👉 [Click here to view the dashboard](https://lookerstudio.google.com/s/hWvMLS9PH2w)
-
 ## ✅ Conclusion
 
 This project demonstrates the power of integrating real-time sports data with modern cloud technologies. From fetching live cricket rankings using the Cricbuzz API to automating data uploads to Google Cloud Storage and BigQuery, every component plays a role in building a seamless, scalable pipeline. With the final output visualized in Looker Studio, the project highlights how raw data can be transformed into actionable insights with minimal manual effort.
